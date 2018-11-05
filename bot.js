@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const pirfix = require ('-')
+const Prefix = require ('-')
 
 
 client.on('ready', () => {
