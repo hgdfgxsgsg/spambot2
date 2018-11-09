@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "504315950225555468"; // ايدي السررفر
-var channel = "504315975588380672";//ايدي الروم
+var server = "493237177170395155"; // ايدي السررفر
+var channel = "510454710378037248";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki ,mohammed turki , ')
     },305);
